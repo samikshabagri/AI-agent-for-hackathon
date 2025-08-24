@@ -204,7 +204,7 @@ This application provides a strong foundation that can be extended in many ways:
 
 ### A Note from the samiksha
 
-I got to know about this project one day before the submission deadline. This is all I could do in one day.
+
 > ### A quick note on stack & budget 💙
 > I would have loved to use Azure Document Intelligence and Azure Database for this project, but I’m currently constrained to free tiers. To ship a working demo, I used:
 >
